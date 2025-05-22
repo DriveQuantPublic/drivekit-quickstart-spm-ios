@@ -1,0 +1,42 @@
+{
+  "originHash" : "237f247a678523d98ba1c7987a835a25fddf2335a73d42494e7bf9c7147779be",
+  "pins" : [
+    {
+      "identity" : "charts",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/danielgindi/Charts.git",
+      "state" : {
+        "revision" : "dd9c72e3d7e751e769971092a6bd72d39198ae63",
+        "version" : "5.1.0"
+      }
+    },
+    {
+      "identity" : "drivekit-sdk-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DriveQuantPublic/drivekit-sdk-spm.git",
+      "state" : {
+        "revision" : "955d0760bed1c13ad441c1aedb2ff119419e8708",
+        "version" : "2.16.0"
+      }
+    },
+    {
+      "identity" : "drivekit-ui-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DriveQuantPublic/drivekit-ui-ios.git",
+      "state" : {
+        "branch" : "feature/693-SPM",
+        "revision" : "634a0d1d5fd558ff44bf1725c7cd730a645c5810"
+      }
+    },
+    {
+      "identity" : "rangeslider",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/warchimede/RangeSlider.git",
+      "state" : {
+        "revision" : "04ddecea8b0b4d267420c72aa8f5005844d841e6",
+        "version" : "1.2.0"
+      }
+    }
+  ],
+  "version" : 3
+}
