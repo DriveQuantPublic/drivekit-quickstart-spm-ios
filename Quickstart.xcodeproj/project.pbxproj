@@ -120,8 +120,8 @@
 			mainGroup = 632F553C2DD61B3F00F3AD50;
 			minimizedProjectReferenceProxies = 1;
 			packageReferences = (
-				632F55A72DD61DD800F3AD50 /* XCRemoteSwiftPackageReference "drivekit-sdk-spm" */,
 				636C067B2DD63EB200977726 /* XCRemoteSwiftPackageReference "drivekit-ui-ios" */,
+				6748F0832DF09F7F006DF655 /* XCRemoteSwiftPackageReference "drivekit-sdk-spm" */,
 			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 632F55462DD61B3F00F3AD50 /* Products */;
@@ -363,20 +363,20 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
-		632F55A72DD61DD800F3AD50 /* XCRemoteSwiftPackageReference "drivekit-sdk-spm" */ = {
+		636C067B2DD63EB200977726 /* XCRemoteSwiftPackageReference "drivekit-ui-ios" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/DriveQuantPublic/drivekit-ui-ios.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.14.0;
+			};
+		};
+		6748F0832DF09F7F006DF655 /* XCRemoteSwiftPackageReference "drivekit-sdk-spm" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/DriveQuantPublic/drivekit-sdk-spm";
 			requirement = {
 				kind = upToNextMajorVersion;
 				minimumVersion = 2.16.0;
-			};
-		};
-		636C067B2DD63EB200977726 /* XCRemoteSwiftPackageReference "drivekit-ui-ios" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/DriveQuantPublic/drivekit-ui-ios.git";
-			requirement = {
-				branch = "feature/693-SPM";
-				kind = branch;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */

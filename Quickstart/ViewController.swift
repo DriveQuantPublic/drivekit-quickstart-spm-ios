@@ -21,8 +21,8 @@ class ViewController: UIViewController {
 
     @IBAction func configureDriveKit() {
         // Add here the code related to DriveKit Configuration
-        DriveKit.shared.setApiKey(key: "qDcgo5W2I1p3u5STEhuQ1AJo")
-        DriveKit.shared.setUserId(userId: "david")
+        DriveKit.shared.setApiKey(key: /* Your API Key here */)
+        DriveKit.shared.setUserId(userId: /* Your user ID here */)
         DriveKitTripAnalysis.shared.activateAutoStart(enable: true)
     }
 
