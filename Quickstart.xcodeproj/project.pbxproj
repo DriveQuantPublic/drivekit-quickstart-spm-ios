@@ -376,7 +376,7 @@
 			repositoryURL = "https://github.com/DriveQuantPublic/drivekit-sdk-spm";
 			requirement = {
 				kind = upToNextMajorVersion;
-				minimumVersion = 2.16.0;
+				minimumVersion = 2.16.1;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */
@@ -384,7 +384,6 @@
 /* Begin XCSwiftPackageProductDependency section */
 		632F55A82DD61DD800F3AD50 /* DriveKitTripAnalysis */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = 632F55A72DD61DD800F3AD50 /* XCRemoteSwiftPackageReference "drivekit-sdk-spm" */;
 			productName = DriveKitTripAnalysis;
 		};
 		632F55B42DD63D2400F3AD50 /* DriveKitPermissionsUtilsUI */ = {
