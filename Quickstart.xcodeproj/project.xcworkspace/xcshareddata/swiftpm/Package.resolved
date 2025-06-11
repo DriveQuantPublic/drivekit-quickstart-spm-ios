@@ -24,8 +24,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/DriveQuantPublic/drivekit-ui-ios.git",
       "state" : {
-        "revision" : "32b7142be1b53f2de593de8e53510002921196ee",
-        "version" : "2.14.0"
+        "revision" : "5ab0128b301a6506b383f4fc2bab54a17d8d5535",
+        "version" : "2.14.1"
       }
     },
     {
