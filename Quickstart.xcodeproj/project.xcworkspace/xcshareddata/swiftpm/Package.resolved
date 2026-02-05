@@ -15,8 +15,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/DriveQuantPublic/drivekit-sdk-spm.git",
       "state" : {
-        "revision" : "15232603fb356cde628469d197f542604b443d3e",
-        "version" : "2.25.0"
+        "revision" : "21d1087caf3e0e4142d6324175dffca40bb5bed3",
+        "version" : "2.26.0"
       }
     },
     {
@@ -24,8 +24,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/DriveQuantPublic/drivekit-ui-ios.git",
       "state" : {
-        "revision" : "f7850bef3915b39ddfc2362cae23a0c16f8d0dc9",
-        "version" : "2.25.0"
+        "revision" : "75d5d9066f147036156cccdcc1c26433486d85a4",
+        "version" : "2.26.0"
       }
     },
     {
